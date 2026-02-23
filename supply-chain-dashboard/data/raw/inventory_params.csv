@@ -1,0 +1,6 @@
+Category,Category_Code,Unit_Cost_INR,Holding_Cost_Pct,Annual_Demand,Demand_StdDev,Current_Stock,Lead_Time_Days,Supplier_Code
+Electronics,P01,4500,0.20,6060,88,850,14,SUP01
+Apparel,P02,850,0.25,4980,72,420,14,SUP02
+Home & Kitchen,P03,1200,0.22,4200,55,320,14,SUP03
+Sports & Outdoors,P04,2200,0.18,3690,100,250,14,SUP04
+Beauty & Health,P05,650,0.28,4980,48,510,14,SUP05

@@ -1,0 +1,6 @@
+Supplier_Code,Supplier_Name,Category,Category_Code,Agreed_Lead_Time_Days,Actual_Lead_Time_Days,On_Time_Delivery_Pct,Contact_Email,Rating
+SUP01,TechSupply Co.,Electronics,P01,12,14,92.0,orders@techsupply.in,5
+SUP02,FashionTextiles,Apparel,P02,10,11,88.0,supply@fashiontex.in,4
+SUP03,HomeGoods Ltd.,Home & Kitchen,P03,14,13,95.0,contact@homegoods.in,5
+SUP04,SportsPro India,Sports & Outdoors,P04,16,18,78.0,po@sportspro.in,3
+SUP05,BeautyWholesale,Beauty & Health,P05,10,12,83.0,orders@beautywhole.in,4

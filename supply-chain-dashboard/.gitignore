@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# BI tools (binary files)
+*.pbix
+*.twb
+*.twbx
+*.hyper
+
+# Generated outputs
+outputs/charts/*.png
+outputs/reports/*.pdf
+data/processed/
+
+# Credentials
+.env
